@@ -1,0 +1,15 @@
+4,Thu,September 29,Cincinnati Bengals,,Miami Dolphins,22,7
+4,Sun,October 2,Jacksonville Jaguars,,Indianapolis Colts,30,27
+4,Sun,October 2,Chicago Bears,,Detroit Lions,17,14
+4,Sun,October 2,Oakland Raiders,@,Baltimore Ravens,28,27
+4,Sun,October 2,Buffalo Bills,@,New England Patriots,16,0
+4,Sun,October 2,Houston Texans,,Tennessee Titans,27,20
+4,Sun,October 2,Seattle Seahawks,@,New York Jets,27,17
+4,Sun,October 2,Atlanta Falcons,,Carolina Panthers,48,33
+4,Sun,October 2,Washington Redskins,,Cleveland Browns,31,20
+4,Sun,October 2,Denver Broncos,@,Tampa Bay Buccaneers,27,7
+4,Sun,October 2,Dallas Cowboys,@,San Francisco 49ers,24,17
+4,Sun,October 2,New Orleans Saints,@,San Diego Chargers,35,34
+4,Sun,October 2,Los Angeles Rams,@,Arizona Cardinals,17,13
+4,Sun,October 2,Pittsburgh Steelers,,Kansas City Chiefs,43,14
+4,Mon,October 3,Minnesota Vikings,,New York Giants,24,10

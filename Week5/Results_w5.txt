@@ -1,0 +1,14 @@
+5,Thu,October 6,Arizona Cardinals,@,San Francisco 49ers,33,21
+5,Sun,October 9,New England Patriots,@,Cleveland Browns,33,13
+5,Sun,October 9,Indianapolis Colts,,Chicago Bears,29,23
+5,Sun,October 9,Detroit Lions,,Philadelphia Eagles,24,23
+5,Sun,October 9,Pittsburgh Steelers,,New York Jets,31,13
+5,Sun,October 9,Tennessee Titans,@,Miami Dolphins,30,17
+5,Sun,October 9,Washington Redskins,@,Baltimore Ravens,16,10
+5,Sun,October 9,Minnesota Vikings,,Houston Texans,31,13
+5,Sun,October 9,Atlanta Falcons,@,Denver Broncos,23,16
+5,Sun,October 9,Buffalo Bills,@,Los Angeles Rams,30,19
+5,Sun,October 9,Oakland Raiders,,San Diego Chargers,34,31
+5,Sun,October 9,Dallas Cowboys,,Cincinnati Bengals,28,14
+5,Sun,October 9,Green Bay Packers,,New York Giants,23,16
+5,Mon,October 10,Tampa Bay Buccaneers,@,Carolina Panthers,17,14

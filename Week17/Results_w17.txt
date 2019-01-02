@@ -1,0 +1,16 @@
+17,Sun,January 1,Tampa Bay Buccaneers,,Carolina Panthers,17,16
+17,Sun,January 1,New England Patriots,@,Miami Dolphins,35,14
+17,Sun,January 1,New York Jets,,Buffalo Bills,30,10
+17,Sun,January 1,Pittsburgh Steelers,,Cleveland Browns,27,24
+17,Sun,January 1,Minnesota Vikings,,Chicago Bears,38,10
+17,Sun,January 1,Tennessee Titans,,Houston Texans,24,17
+17,Sun,January 1,Indianapolis Colts,,Jacksonville Jaguars,24,20
+17,Sun,January 1,Cincinnati Bengals,,Baltimore Ravens,27,10
+17,Sun,January 1,Philadelphia Eagles,,Dallas Cowboys,27,13
+17,Sun,January 1,Seattle Seahawks,@,San Francisco 49ers,25,23
+17,Sun,January 1,Arizona Cardinals,@,Los Angeles Rams,44,6
+17,Sun,January 1,Denver Broncos,,Oakland Raiders,24,6
+17,Sun,January 1,Kansas City Chiefs,@,San Diego Chargers,37,27
+17,Sun,January 1,Atlanta Falcons,,New Orleans Saints,38,32
+17,Sun,January 1,New York Giants,@,Washington Redskins,19,10
+17,Sun,January 1,Green Bay Packers,@,Detroit Lions,31,24

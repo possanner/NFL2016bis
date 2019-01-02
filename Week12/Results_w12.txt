@@ -1,0 +1,16 @@
+12,Thu,November 24,Detroit Lions,,Minnesota Vikings,16,13
+12,Thu,November 24,Dallas Cowboys,,Washington Redskins,31,26
+12,Thu,November 24,Pittsburgh Steelers,@,Indianapolis Colts,28,7
+12,Sun,November 27,San Diego Chargers,@,Houston Texans,21,13
+12,Sun,November 27,Tennessee Titans,@,Chicago Bears,27,21
+12,Sun,November 27,New Orleans Saints,,Los Angeles Rams,49,21
+12,Sun,November 27,Miami Dolphins,,San Francisco 49ers,31,24
+12,Sun,November 27,Atlanta Falcons,,Arizona Cardinals,38,19
+12,Sun,November 27,Baltimore Ravens,,Cincinnati Bengals,19,14
+12,Sun,November 27,Buffalo Bills,,Jacksonville Jaguars,28,21
+12,Sun,November 27,New York Giants,@,Cleveland Browns,27,13
+12,Sun,November 27,Tampa Bay Buccaneers,,Seattle Seahawks,14,5
+12,Sun,November 27,New England Patriots,@,New York Jets,22,17
+12,Sun,November 27,Oakland Raiders,,Carolina Panthers,35,32
+12,Sun,November 27,Kansas City Chiefs,@,Denver Broncos,30,27
+12,Mon,November 28,Green Bay Packers,@,Philadelphia Eagles,27,13

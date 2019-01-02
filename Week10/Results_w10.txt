@@ -1,0 +1,14 @@
+10,Thu,November 10,Baltimore Ravens,,Cleveland Browns,28,7
+10,Sun,November 13,Kansas City Chiefs,@,Carolina Panthers,20,17
+10,Sun,November 13,Tennessee Titans,,Green Bay Packers,47,25
+10,Sun,November 13,Washington Redskins,,Minnesota Vikings,26,20
+10,Sun,November 13,Houston Texans,@,Jacksonville Jaguars,24,21
+10,Sun,November 13,Tampa Bay Buccaneers,,Chicago Bears,36,10
+10,Sun,November 13,Los Angeles Rams,@,New York Jets,9,6
+10,Sun,November 13,Philadelphia Eagles,,Atlanta Falcons,24,15
+10,Sun,November 13,Denver Broncos,@,New Orleans Saints,25,23
+10,Sun,November 13,Miami Dolphins,@,San Diego Chargers,31,24
+10,Sun,November 13,Dallas Cowboys,@,Pittsburgh Steelers,35,30
+10,Sun,November 13,Arizona Cardinals,,San Francisco 49ers,23,20
+10,Sun,November 13,Seattle Seahawks,@,New England Patriots,31,24
+10,Mon,November 14,New York Giants,,Cincinnati Bengals,21,20
